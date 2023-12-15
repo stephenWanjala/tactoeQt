@@ -1,0 +1,5 @@
+/home/wanjala/CLionProjects/tactoe/cmake-build-debug/CMakeFiles/tactoe.dir
+/home/wanjala/CLionProjects/tactoe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wanjala/CLionProjects/tactoe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wanjala/CLionProjects/tactoe/cmake-build-debug/CMakeFiles/tactoe_autogen_timestamp_deps.dir
+/home/wanjala/CLionProjects/tactoe/cmake-build-debug/CMakeFiles/tactoe_autogen.dir
