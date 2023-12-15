@@ -1,0 +1,64 @@
+# Ignore build output
+build/
+
+# Ignore Qt-specific files
+*.user
+*.pro.user
+*.pro.user.*
+*.qbs
+
+# Ignore IDE-specific files
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.opendb
+*.dbmdl
+*.VC.db
+*.ilk
+*.log
+*.tlog/
+*.diff
+*.sbr
+*.pdb
+*.idb
+*.manifest
+*.exp
+
+# Ignore compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore generated files
+Makefile
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Linux system files
+*~
+
+# Ignore Visual Studio Code configuration
+.vscode/
+
+# Ignore JetBrains CLion files
+.idea/
+
+# Ignore CMake generated files
+cmake-build-*/
+
+# Ignore build output
+out/
+
+# Ignore CLion project files
+*.iml
+*.ipr
+*.iws
